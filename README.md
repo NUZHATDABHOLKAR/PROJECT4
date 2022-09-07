@@ -15,5 +15,4 @@ CSS POSITION PROPERTY
  NEED 1 HOURS TO DO THIS PROJECT
 
 ## 🔗 Links
-[project 3
 [PROJECT4 ](https://project4a.netlify.app/)
