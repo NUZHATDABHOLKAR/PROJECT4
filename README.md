@@ -1,4 +1,4 @@
- ## Authors 
+ ## Author 
  DABHOLKAR NUZHAT 
  
 # Project Title
@@ -11,8 +11,8 @@ MOSTLY I USED FIXED PROPERTY. IT'S A VERY EASY AND SIMPLE PROJECT AND YES IT IS 
  # What you have learnt in this project
 CSS POSITION PROPERTY 
 
-## TIME
- NEED 2 HOURS TO DO THIS PROJECT
+## Time
+ NEED 1 HOURS TO DO THIS PROJECT
 
 ## 🔗 Links
 [project 3
